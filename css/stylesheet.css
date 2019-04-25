@@ -103,3 +103,25 @@ ul li:hover
   background-size: cover;
   min-height: 500px;
 }
+/*Social Buttons*/
+.btn-twitter {
+background: #00acee;
+border-color: #009ad5;
+}
+
+.btn-facebook {
+background: #4868ac;
+border-color: #314776;
+}
+
+.btn-pinterest {
+background: #FF0000;
+border-color: #FF0000;
+}
+
+h1{
+  color:#F4A460;
+}
+h2{
+  color:#AD9649;
+}
