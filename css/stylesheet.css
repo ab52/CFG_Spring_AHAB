@@ -104,24 +104,39 @@ ul li:hover
   min-height: 500px;
 }
 /*Social Buttons*/
+#social-buttons{
+margin-left:10px;
+margin-right:10px;
+}
 .btn-twitter {
-background: #00acee;
-border-color: #009ad5;
+  right: 0px;
+  width: 200px;
+  padding: 10px;
+  background: #00acee;
+  border-color: #009ad5;
 }
 
 .btn-facebook {
-background: #4868ac;
-border-color: #314776;
+  right: 0px;
+  width: 200px;
+  padding: 10px;
+  background: #4868ac;
+  border-color: #314776;
 }
 
 .btn-pinterest {
-background: #FF0000;
-border-color: #FF0000;
+  right: 0px;
+  width: 200px;
+  padding: 10px;
+  background: #FF0000;
+  border-color: #FF0000;
 }
+/*fonts*/
 
 h1{
   color:#F4A460;
 }
 h2{
   color:#AD9649;
+  text-align: center;
 }
