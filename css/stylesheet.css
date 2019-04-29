@@ -9,6 +9,10 @@ a{
   text-decoration: none;
 }
 
+a.nav-link{
+  color: black;
+}
+
 .btn{
   display: inline-block;
   border-radius:4px;
