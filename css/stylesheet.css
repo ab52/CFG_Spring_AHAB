@@ -59,6 +59,7 @@ ul li
   list-style: none;
   display: inline-block;
   padding: 20px;
+  color: black;
 }
 ul li:hover
 {
